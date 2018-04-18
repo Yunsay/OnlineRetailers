@@ -47,7 +47,7 @@ import SearchBox from 'base/search-box/search-box'
       box-sizing: border-box;
       .ls-search-back
         color: $color-white
-        padding: 10px 12px;
+        padding: 11px 12px;
         line-height: 18px;
         font-size: 12px;
         font-weight: 600;
