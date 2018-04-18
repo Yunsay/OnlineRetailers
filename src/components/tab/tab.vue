@@ -24,6 +24,7 @@
     display: flex
     height: 42px
     line-height: 42px
+    margin-bottom: 2px
     font-size: $font-size-medium
     background-color #53a318
     .tab-item
